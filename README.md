@@ -1,0 +1,1 @@
+A MDN technical documentation built purely with HTML and CSS, it has a sidebar with a fixed scrollbar and responsive to devices, this took a lot of brainstorming lol.
